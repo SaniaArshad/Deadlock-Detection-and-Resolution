@@ -1,4 +1,4 @@
-# Deadlock Detection and Resolution
+# Deadlock Detection and Resolution (C)
 
 ## Overview
 This program is designed to detect and resolve deadlocks in a system with multiple processes and files. Deadlock occurs when two or more processes are unable to proceed because each is waiting for the other to release resources. The program reads input data from a file, processes it, detects deadlocks, and resolves them to ensure the system can continue execution without being stuck.
