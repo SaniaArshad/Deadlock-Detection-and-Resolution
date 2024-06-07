@@ -1,0 +1,3 @@
+/home/user/CLionProjects/i202425_R_OSProject/cmake-build-debug/CMakeFiles/i202425_R_OSProject.dir
+/home/user/CLionProjects/i202425_R_OSProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/user/CLionProjects/i202425_R_OSProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
